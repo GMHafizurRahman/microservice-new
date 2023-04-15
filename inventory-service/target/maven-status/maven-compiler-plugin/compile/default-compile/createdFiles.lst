@@ -1,5 +1,7 @@
 com/mspractice/inventoryservice/service/InventoryService.class
 com/mspractice/inventoryservice/InventoryServiceApplication.class
 com/mspractice/inventoryservice/model/Inventory.class
-com/mspractice/inventoryservice/repository/InventoryRepository.class
+com/mspractice/inventoryservice/dto/InventoryResponse.class
 com/mspractice/inventoryservice/controller/InventoryController.class
+com/mspractice/inventoryservice/repository/InventoryRepository.class
+com/mspractice/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
