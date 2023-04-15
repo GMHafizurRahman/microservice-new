@@ -1,0 +1,8 @@
+com/mspractice/orderservice/dto/OrderRequest.class
+com/mspractice/orderservice/model/OrderLineItems.class
+com/mspractice/orderservice/dto/OrderLineItemsDto.class
+com/mspractice/orderservice/controller/OrderController.class
+com/mspractice/orderservice/service/OrderService.class
+com/mspractice/orderservice/model/Order.class
+com/mspractice/orderservice/OrderServiceApplication.class
+com/mspractice/orderservice/repository/OrderRepository.class

@@ -1,0 +1,10 @@
+com/mspractice/productservice/model/Product.class
+com/mspractice/productservice/repository/ProductRepository.class
+com/mspractice/productservice/dto/ProductResponse.class
+com/mspractice/productservice/controller/ProductController.class
+com/mspractice/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/mspractice/productservice/service/ProductService.class
+com/mspractice/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/mspractice/productservice/dto/ProductRequest.class
+com/mspractice/productservice/ProductServiceApplication.class
+com/mspractice/productservice/model/Product$ProductBuilder.class

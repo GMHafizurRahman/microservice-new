@@ -1,0 +1,7 @@
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/dto/ProductRequest.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/repository/ProductRepository.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/dto/ProductResponse.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/controller/ProductController.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/ProductServiceApplication.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/service/ProductService.java
+/home/hafizur/Apps/microservice-new/product-service/src/main/java/com/mspractice/productservice/model/Product.java
